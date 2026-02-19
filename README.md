@@ -170,7 +170,7 @@ Example Output:
 
 ## 1️⃣ Clone Repository
 
-git clone 
+git clone https://github.com/Vaishnav-M01/Emotion-Detection-
 
 ---
 
@@ -180,11 +180,6 @@ Windows:
 
 python -m venv venv  
 venv\Scripts\activate  
-
-Mac/Linux:
-
-python3 -m venv venv  
-source venv/bin/activate  
 
 ---
 
@@ -217,18 +212,6 @@ Database: SQLite
 ML Model: Logistic Regression  
 Text Processing: TF-IDF  
 Model Storage: Joblib  
-
----
-
-# 🔒 Future Improvements
-
-- Password Hashing (bcrypt)  
-- JWT Authentication  
-- React Frontend Integration  
-- Emotion Probability Scores  
-- Interactive Charts in Admin  
-- Deployment (Render / AWS / Railway)  
-- Docker Containerization  
 
 ---
 
